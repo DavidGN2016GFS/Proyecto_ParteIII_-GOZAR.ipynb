@@ -1,4 +1,5 @@
 # Proyecto_ParteIII_-GOZAR.ipynb
 
-Este proyecto analiza la relación entre ingresos totales (AMT_INCOME_TOTAL) y el número de hijos (CNT_CHILDREN), utilizando un dataset de riesgo crediticio.
+This project analyzes the relationship between total income (AMT_INCOME_TOTAL) and the number of children (CNT_CHILDREN) using a credit risk dataset.
+
 
